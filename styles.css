@@ -1,0 +1,27 @@
+body{
+  font-size: 1.5rem;
+}
+#title
+{
+  background-color: black;
+  color: white;
+  overflow: hidden;
+
+
+}
+.index{
+  padding-top:  15%;
+  text-align: center;
+
+}
+.cont{
+  padding-left: 12%;
+}
+a{
+  text-decoration:none;
+  color:white;
+
+}
+a:hover{
+  color:black;
+}
